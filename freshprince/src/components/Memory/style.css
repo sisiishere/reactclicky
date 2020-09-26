@@ -1,0 +1,15 @@
+.allCards {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  text-align: center;
+}
+
+.allCards img {
+  margin: 5px;
+  padding: 20px;
+  border: 1px solid rgb(253, 0, 232);
+  max-height: 200px;
+  max-width: 200px;
+  background-image: url("https://www.pictorem.com/collection/900_Rizwana-Khan_Orange%20Gradient%20Background.jpg");
+}

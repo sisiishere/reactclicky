@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Will",
+    "clicked": false,
+    "image": "https://static.parade.com/wp-content/uploads/2013/09/fresh-prince-of-bel-air-will-smith-ftr.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Carlton",
+    "clicked": false,
+    "image": "http://images1.fanpop.com/images/photos/1900000/-will-smith-1942260-324-276.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ashley",
+    "clicked": false,
+    "image": "https://i.pinimg.com/originals/a8/6d/27/a86d271aec88577271adef0e3a4f01e1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hillary",
+    "clicked": false,
+    "image": "https://imgix.bustle.com/rehost/2016/9/13/242b0b96-d922-4db3-af19-dc8aa2ca4c00.png?w=970&h=582&fit=crop&crop=faces&auto=format&q=70"
+  },
+  {
+    "id": 5,
+    "name": "Nicky",
+    "clicked": false,
+    "image": "http://1.bp.blogspot.com/-3KxxbyIgc2Q/T465jWCzeEI/AAAAAAAAATw/wZrDfYtVGQY/s1600/nicky_xlarge.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Geoffrey",
+    "clicked": false,
+    "image": "http://digitalspyuk.cdnds.net/14/08/ustv-joseph-marcell-geoffrey-the-butler-fresh-prince-of-bel-air.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Uncle Phil",
+    "clicked": false,
+    "image": "http://www.betterfunner.com/wp-content/uploads/2012/09/5-freshprince.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Aunt Viv I",
+    "clicked": false,
+    "image": "https://static.vibe.com/files/2013/04/tumblr_mb7bg4wLzV1rt3zrlo1_500.png"
+  },
+  {
+    "id": 9,
+    "name": "Aunt Viv II",
+    "clicked": false,
+    "image": "http://www.baconsports.com/wp-content/uploads/2012/09/aunt-viv-2.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Aunt Vy",
+    "clicked": false,
+    "image": "https://i.pinimg.com/736x/aa/f8/4c/aaf84c897649d1ab18249a5477db96e2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Grandma",
+    "clicked": false,
+    "image": "https://typeset-beta.imgix.net/uploads/image/2017/8/19/e6e17888-5fc2-4cba-8845-aeb71bed4400-hattie.png?w=614&h=&fit=max&auto=format&fm=jpg&q=70"
+  },
+  {
+    "id": 12,
+    "name": "Jazz",
+    "clicked": false,
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2014-01/enhanced/webdr02/2/14/anigif_enhanced-buzz-10511-1388691252-23_preview.gif"
+  },
+  {
+    "id": 13,
+    "name": "Ty",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/freshprince/images/2/2f/TyriqJ.png/revision/latest?cb=20190709164737"
+  },
+  {
+    "id": 14,
+    "name": "Jackie",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/freshprince/images/3/3e/Jackieames.jpg/revision/latest?cb=20180624074834"
+  },
+  {
+    "id": 15,
+    "name": "Lisa",
+    "clicked": false,
+    "image": "https://commentstyle.files.wordpress.com/2013/03/fresh-prince-lisa.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Trevor",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/freshprince/images/3/31/A2ba5c1e-112f-450f-b40e-7990dd6101c3_screenshot.jpg/revision/latest/scale-to-width-down/220?cb=20190310040442"
+  }
+]
